@@ -5,5 +5,5 @@
 <p>To view the excel file yourself- download all 4 dashboard zip files and select all and right click to extract (this is a rather large file that I had to split for Github’s upload stipluations). Or alteratively, you can download it at this google drive <a href="https://drive.google.com/open?id=1rLujRRQ7Tr6gxN16Q00wqxMopTANBaUc">link</a>.</p>
   
 <H2>Disclaimer</H2>  
-All data was is fake. There has been no real personal information used in the creation and population of fields in this excel dashboard.
+All data used here is fake. There has been no real personal information used in the creation and population of fields in this excel dashboard.
 
